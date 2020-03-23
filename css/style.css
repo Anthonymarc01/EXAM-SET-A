@@ -1,0 +1,20 @@
+.neomo{
+    height: 50px;
+    width: 50px;
+    background: #dde1e7;
+    box-shadow: -3px -3px 7px #685f5f73, 3px 3px 5px rgba(66, 63, 63, 0.288);
+}
+.neomo2{
+    height: 50px;
+    width: 50px;
+    background: #dde1e7;
+    box-shadow: -1px -1px 4px #acabab73, 3px 3px 5px rgba(0, 0, 0, 0.288);
+}
+.neomor{
+    margin: 15px;
+    height: 50px;
+    width: 50px;
+    background-color: #243441;
+    border-radius: 5px;
+    box-shadow: inset -2px -2px 4px #a19c9c73, inset 6px 6px 5px rgba(0, 0, 0, 0.288);
+}
